@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/ojanaja/ojanaja/assets/57560433/52bb0ba3-d588-4d45-aedd-60ed1d172fec" alt="Animated Gif"/>
+</p>
+
 <h1 align="center">Hi There👋, my name is Fauzan</h1>
 <h3 align="center">I’m an Informatics Engineering student at Sunan Gunung Djati State Islamic University in Bandung. I paint my canvas with tech and campus activities, boosting my leadership and confidence. I harmonize teams and manage time, making responsibilities a sweet tune. I’m always buzzing to learn and grow, squeezing every opportunity to glow!</h3>
 
@@ -27,6 +31,13 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/ojanaja/ojanaja/assets/57560433/fc625baf-bbca-4bd5-90c4-e15202031a41" alt="Your Alt Text"/>
+</p>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
