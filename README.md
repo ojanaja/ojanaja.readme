@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js, Redis, MongoDB**
 
-- 👨‍💻 All of my projects are available at [Fauzan's Zone]([example.com](https://fauzan-zone.vercel.app/))
+- 👨‍💻 All of my projects are available at [Fauzan's Zone](https://fauzan-zone.vercel.app/)
 
 - 📝 I regularly write articles on [example.com](example.com)
 
