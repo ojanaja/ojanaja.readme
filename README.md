@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ojanaja03@gmail.com**
 
-- 📄 Know about my experiences [example.com](example.com)
-
 - ⚡ Fun fact **People think i am smart but its not completely true, i can do and understand something because i usually do it:)**
 
 ## Connect with me  
