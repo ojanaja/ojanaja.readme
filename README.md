@@ -3,15 +3,8 @@
 </p>
 
 <h1 align="center">Hi There👋, my name is Fauzan</h1>
-<h3 align="center">I’m an Informatics Engineering student at Sunan Gunung Djati State Islamic University in Bandung. I paint my canvas with tech and campus activities, boosting my leadership and confidence. I harmonize teams and manage time, making responsibilities a sweet tune. I’m always buzzing to learn and grow, squeezing every opportunity to glow!</h3>
-
-- 🌱 I’m currently learning **Next.js, Redis, MongoDB**
 
 - 👨‍💻 All of my projects are available at [Fauzan's Zone](https://fauzanlab.my.id/)
-
-- 📝 I regularly write articles on [example.com](example.com)
-
-- 💬 Ask me about **HTML, CSS, Javascript, Laravel, Data Structure, Algorithm**
 
 - 📫 How to reach me **ojanaja03@gmail.com**
 
